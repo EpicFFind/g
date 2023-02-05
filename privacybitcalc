@@ -72,3 +72,22 @@ Compliance with legal obligations – We may use Ad Network Information, Mediati
 
 More information, see below
 https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/?#step-2
+
+
+
+Submitting Deletion and Pull Requests Procedure
+Below is a description of our procedure for submitting data deletion and pull requests in connection with the GDPR and the CCPA. Please follow this procedure and use the output templates if you would like to make a data deletion or pull request. Please note that we will not support any other templates or procedures.
+
+Publisher data deletion and pull requests procedure:
+
+Please submit a request to mobile-gdpr-requests@ironsrc.com, containing a list with IDFA/GAIDand appKeys. Please mention in the subject line if it is a deletion or pull request.
+ironSource will process the request within 30 days (or a shorter period of time, if required by applicable law), subject to our agreement
+Regarding pull requests, we will reply with data covering the categories included in the linked excel templates [Click here].
+For deletion requests, the requests must be submitted in an excel document in accordance with the linked template: [Click Here]. After receiving a request we will send a confirmation email which confirms that the specified device ID was deleted.
+Advertiser data deletion and pull requests procedure:
+
+Please submit a request to mobile-gdpr-requests@ironsrc.com containing a list with IDFA/GAIDand AdvertiserIDs. Please mention in the subject line if it is a deletion or pull request.
+ironSource will process the request within 30 days (or a shorter period of time, if required by applicable law), subject to our agreement.
+Regarding access requests, we will reply with data covering the categories included in  the linked excel templates [Click here].
+For deletion requests, the requests must be submitted in an excel document in accordance with the linked template: [Click Here]. After receiving a request we will send a confirmation email which confirms that the specified device ID was deleted.
+If you are an end-user of a specific app, and wish to request a deletion of or access to your personal information, as set forth under the CCPA, or your personal data, as set forth under the GDPR, in relation with the information processed by ironSource Mobile Ltd., please review the process set forth in our privacy policy.
